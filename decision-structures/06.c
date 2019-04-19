@@ -22,4 +22,6 @@ int main() {
     printf("The largest number is %d\n", higher_number);
     printf("The difference between %d and %d equals %d\n", higher_number, smaller_number, difference);
   }
+
+  return 0;
 }
